@@ -5,7 +5,7 @@
 #################################
 
 POOL=stratum+tcp://eth-us.f2pool.com:6688
-WALLET=0x23dd47f22240551895b02196973f348714883e33.lolayu03
+WALLET=0x23dd47f22240551895b02196973f348714883e33.lolrizieq21
 
 #################################
 ##  End of user-editable part  ##
